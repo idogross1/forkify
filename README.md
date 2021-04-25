@@ -1,3 +1,4 @@
 # forkify Project
 
-Recipe application with costum recipe uploads.
+Recipe application with costume recipe uploads.
+In this project I used Javascrip, HTML & CSS.
